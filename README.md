@@ -1,6 +1,6 @@
 
 >[!TIP]
-> This repository was moved to the https://github.com/storybookjs/storybook as of Storybook 10.6.0. Please check there for updated documentation.
+> This repository has moved to [storybookjs/storybook](https://github.com/storybookjs/storybook) as of Storybook v10.6.0. Please check there for updated documentation.
 
 -----
 
