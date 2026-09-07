@@ -1,8 +1,7 @@
-
->[!TIP]
+> [!TIP]
 > This repository has moved to [storybookjs/storybook](https://github.com/storybookjs/storybook) as of Storybook v10.6.0. Please check there for updated documentation.
 
------
+---
 
 # Storybook MCP
 
