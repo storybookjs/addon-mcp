@@ -1,4 +1,9 @@
-# Storybook MCP - Contributor Guide
+> [!TIP]
+> This repository has moved to [storybookjs/storybook](https://github.com/storybookjs/storybook) as of Storybook v10.6.0. Please check there for updated documentation.
+
+---
+
+# Storybook MCP
 
 Welcome to the Storybook MCP Addon monorepo! This project enables AI agents to work more efficiently with Storybook by providing an MCP (Model Context Protocol) server that exposes UI component information and development workflows.
 
